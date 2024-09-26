@@ -5,9 +5,9 @@ layout: home
 
 ## API Endpoints
 
-- **locations**: This endpoint will send data from all current locations in the database. The query would look something like this: [https://api.etch.app/nevi/locations]
+- **locations**: This endpoint will send data from all current locations in the database. The query would look something like this: [https://api.etch.app/nevi/locations](https://api.etch.app/nevi/locations)
 
-- **location**: This endpoint will send data from a specific location specified with an ID. All of the data for the location's ports and related connectors will be sent. The ID that needs to be used is the one correpsonding to the primary key attribute in the database labled "id". Here is an example of this: [https://api.etch.app/nevi/locations/53]
+- **location**: This endpoint will send data from a specific location specified with an ID. All of the data for the location's ports and related connectors will be sent. The ID that needs to be used is the one correpsonding to the primary key attribute in the database labled "id". Here is an example of this: [https://api.etch.app/nevi/locations/53](https://api.etch.app/nevi/locations/53)
 
 - **sessions**: This endpoint will send session data from a sepcified amount of time. There are two ways to query this endpoint.
 
