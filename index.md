@@ -1,5 +1,5 @@
 ---
-title: NEVI API
+title: Documentation
 layout: home
 ---
 
