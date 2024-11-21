@@ -3,6 +3,8 @@ title: Documentation
 layout: home
 ---
 
+### Francis Energy coming soon...
+
 ## API Endpoints
 
 - **locations**: This endpoint will query data from all current locations available. [https://api.etch.app/nevi/locations](https://api.etch.app/nevi/locations){:target="_blank"}
