@@ -3,7 +3,7 @@ title: Documentation
 layout: home
 ---
 
-### Francis Energy coming soon...
+### Please note: Live data from sites operated by Francis Energy coming soon. 
 
 ## API Endpoints
 
